@@ -10,6 +10,7 @@ class Program3
     System.Console.WriteLine(s);
     s = String.Empty;
     System.Console.WriteLine("bu:" + s + "dur");
+    Console.WriteLine("kodu update edip commit ediyorum");
 
 
 
